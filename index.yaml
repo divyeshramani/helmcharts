@@ -4,7 +4,7 @@ entries:
   - apiVersion: v1
     appVersion: 5.2.0
     created: 2019-05-17T12:16:23.876076+05:30
-    description: Web publishing platform for building blogs and websites.
+    description: Customize Web publishing platform for building blogs and websites.
     digest: d0cdf3d60985143ef63e662febd952ab03bfc110969cf6865cae314fb8cd0ad0
     engine: gotpl
     home: http://www.wordpress.com/
